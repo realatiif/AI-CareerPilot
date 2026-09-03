@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Junior AI/ML Engineer",
+    "company": "TechNova AI",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Git", "TensorFlow"],
+    "description": "Entry-level role focused on machine learning and AI application development."
+  },
+  {
+    "title": "Junior Python Developer",
+    "company": "CodeWorks",
+    "skills": ["Python", "OOP", "SQL", "Git", "REST API", "FastAPI"],
+    "description": "Junior backend development role focused on Python applications and APIs."
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DataVision",
+    "skills": ["Python", "SQL", "Pandas", "Data Analysis", "Data Visualization", "Excel"],
+    "description": "Entry-level data analysis role involving data processing and reporting."
+  },
+  {
+    "title": "Generative AI Developer",
+    "company": "FutureAI Labs",
+    "skills": ["Python", "OpenAI API", "LLMs", "RAG", "Vector Database", "Git"],
+    "description": "Junior GenAI role focused on LLM-powered applications and AI assistants."
+  },
+  {
+    "title": "Machine Learning Intern",
+    "company": "AI Research Labs",
+    "skills": ["Python", "Machine Learning", "NumPy", "Deep Learning", "Git"],
+    "description": "Internship focused on practical machine learning experiments and AI research."
+  }
+]
